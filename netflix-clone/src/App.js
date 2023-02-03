@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="body-container">
       <MyNav />
-      {/* <Jumbo /> */}
+      <Jumbo />
       {/* <Profile /> */}
       <TvShows />
       <AllCards />
