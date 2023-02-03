@@ -37,7 +37,9 @@ class AllCards extends Component {
         </Row> */}
 
         <CardSet search="harry%20potter" title="Harry Potter Series" />
-        <CardSet search="lord" title="Lord Of the Rings" />
+        <CardSet search="matrix" title="Matrix" />
+        <CardSet search="spider-man" title="Spider Man" />
+        <CardSet search="marvel" title="Marvel Universe" />
       </>
     );
   }
