@@ -5,16 +5,17 @@ import MyNav from "./components/MyNav";
 import MyFooter from "./components/MyFooter";
 import AllCards from "./components/AllCards";
 import TvShows from "./components/TvShows";
-import Profile from "./components/Profile";
+// import Profile from "./components/Profile";
 
 function App() {
   return (
     <div className="body-container">
       <MyNav />
-      <Profile />
-      {/* <TvShows />
+
+      {/* <Profile /> */}
+      <TvShows />
       <AllCards />
-      <MyFooter /> */}
+      <MyFooter />
     </div>
   );
 }
